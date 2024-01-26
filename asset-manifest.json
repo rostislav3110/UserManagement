@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rostislav3110/UserManagement/static/css/main.19debe12.css",
+    "main.js": "/rostislav3110/UserManagement/static/js/main.bc3e8af9.js",
+    "index.html": "/rostislav3110/UserManagement/index.html",
+    "main.19debe12.css.map": "/rostislav3110/UserManagement/static/css/main.19debe12.css.map",
+    "main.bc3e8af9.js.map": "/rostislav3110/UserManagement/static/js/main.bc3e8af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19debe12.css",
+    "static/js/main.bc3e8af9.js"
+  ]
+}
