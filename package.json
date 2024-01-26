@@ -1,7 +1,7 @@
 {
   "name": "homework3",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://github.com/rostislav3110/UserManagement",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
