@@ -1,0 +1,24 @@
+form {
+    margin-top: 30px;
+}
+
+input {
+    margin-left: 20px;
+    padding: 5px 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.btnAdd {
+   background-color: rgb(99, 99, 206);
+    padding: 10px 20px;
+    border: 0;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btnAdd:hover {
+    background-color: black;
+    transform: translateY(2px);
+}

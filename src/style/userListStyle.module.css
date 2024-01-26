@@ -1,0 +1,40 @@
+.list {
+  margin-top: 30px;
+}
+
+.listBlock {
+  margin-top: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  row-gap: 10px;
+}
+
+.btnStatic {
+  padding: 10px;
+  background-color: rgb(0, 132, 255);
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.btnStatic:hover {
+    background-color: rgb(17, 61, 102);
+}
+
+.btnStaticDel {
+    padding: 10px;
+    background-color: rgb(243, 23, 52);
+    color: #fff;
+    border: 0;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.btnStaticDel:hover {
+    background-color: rgb(173, 22, 22);
+}
+
+.btnEdit {
+    padding: 10px;
+}
